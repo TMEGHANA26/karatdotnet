@@ -1,0 +1,15 @@
+/workspaces/karatdotnet/Assignments/bin/Debug/net8.0/Assignments
+/workspaces/karatdotnet/Assignments/bin/Debug/net8.0/Assignments.deps.json
+/workspaces/karatdotnet/Assignments/bin/Debug/net8.0/Assignments.runtimeconfig.json
+/workspaces/karatdotnet/Assignments/bin/Debug/net8.0/Assignments.dll
+/workspaces/karatdotnet/Assignments/bin/Debug/net8.0/Assignments.pdb
+/workspaces/karatdotnet/Assignments/obj/Debug/net8.0/Assignments.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/karatdotnet/Assignments/obj/Debug/net8.0/Assignments.AssemblyInfoInputs.cache
+/workspaces/karatdotnet/Assignments/obj/Debug/net8.0/Assignments.AssemblyInfo.cs
+/workspaces/karatdotnet/Assignments/obj/Debug/net8.0/Assignments.csproj.CoreCompileInputs.cache
+/workspaces/karatdotnet/Assignments/obj/Debug/net8.0/Assignments.sourcelink.json
+/workspaces/karatdotnet/Assignments/obj/Debug/net8.0/Assignments.dll
+/workspaces/karatdotnet/Assignments/obj/Debug/net8.0/refint/Assignments.dll
+/workspaces/karatdotnet/Assignments/obj/Debug/net8.0/Assignments.pdb
+/workspaces/karatdotnet/Assignments/obj/Debug/net8.0/Assignments.genruntimeconfig.cache
+/workspaces/karatdotnet/Assignments/obj/Debug/net8.0/ref/Assignments.dll
